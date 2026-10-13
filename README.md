@@ -56,29 +56,3 @@ He trabajado en diversos proyectos académicos y personales aplicando metodolog�
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
----
-
-### 📂 Proyectos Destacados
-
-*Aquí puedes mostrar los repositorios de los que te sientas más orgulloso. Te dejo una estructura de ejemplo:*
-
-- 🛒 **[Nombre de tu Sistema Web / API REST]**(ENLACE_A_TU_REPOSITORIO) 
-  - **Descripción:** Sistema de gestión (CRUD) desarrollado integrando Spring Boot para el backend y Angular para el frontend.
-  - **Tecnologías:** Java, Spring Boot, Angular, MySQL, Maven.
-
-- 💻 **[Nombre de tu Aplicación de Escritorio]**(ENLACE_A_TU_REPOSITORIO) 
-  - **Descripción:** Aplicación de escritorio con arquitectura de capas para la gestión de datos, incluyendo modelado de procesos de negocio.
-  - **Tecnologías:** C#, Visual Studio, SQL Server.
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Omar" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radium&hide_border=true" alt="Lenguajes más usados" height="150"/>
-</p>
-
----
-⚡ *Estudiante egresado con ganas de aportar valor a través del código y las buenas prácticas de desarrollo.*
